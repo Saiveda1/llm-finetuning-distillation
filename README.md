@@ -36,7 +36,7 @@ All numbers below are produced by `python scripts/run_pipeline.py` and stored in
 
 - Prepared for **Sai Veda**
 - Publishing account: **Nikeshk834**
-- Full handoff note: [`PROJECT_DOCUMENT.md`](./PROJECT_DOCUMENT.md)
+- Full handoff note: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 

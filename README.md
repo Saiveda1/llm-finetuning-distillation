@@ -32,11 +32,9 @@ All numbers below are produced by `python scripts/run_pipeline.py` and stored in
 | **Data scaling** | Held-out accuracy climbs **0.599 → 0.857** as training data grows 100 → 4,000 examples. |
 | **Data generator** | **23,023 rows/s**, 1,000,000 rows in **43.4 s** at bounded memory (100k-row chunks) → ~**12 h** for 1e9 single-process, embarrassingly parallel. |
 
-## Project Document
+## Project Brief
 
-- Prepared for **Sai Veda**
-- Publishing account: **Nikeshk834**
-- Full handoff note: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
